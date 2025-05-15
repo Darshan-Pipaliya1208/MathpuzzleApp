@@ -1,16 +1,21 @@
-    # mathspuzzlenew
+**🧩 Math Puzzle App (Flutter)**
 
-A new Flutter project.
+**Math Puzzle App** is a fun and challenging Flutter application designed to enhance logical thinking and problem-solving skills. Users can test their brain with a series of mathematical puzzles in a user-friendly mobile interface.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**📱 Features**
 
-A few resources to get you started if this is your first Flutter project:
+- 🧠 Engaging math puzzles and brain teasers
+- 🏆 Level-based challenges
+- 🎨 Clean and intuitive UI
+- 🔄 Restart and skip options for puzzles
+- 📱 Fully responsive for different screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**-> 🚀 Getting Started**
+
+Follow these steps to run the app locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Darshan-Pipaliya1208/MathpuzzleApp.git
